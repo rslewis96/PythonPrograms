@@ -1,5 +1,6 @@
 # Author: Ryan S Lewis
 # Date: 2022/02/06
+#Written in PyCharm 2021.3.2 (Community Edition), Python 3.10
 
 import random
 
